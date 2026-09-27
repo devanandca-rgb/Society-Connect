@@ -1,0 +1,6 @@
+{
+  "name": "Residentia - Smart Housing Society & Community ERP",
+  "description": "Comprehensive Housing Society Management Portal featuring Committee admin actions, Society Manager invoice & overdue tracking, resident directory & hall bookings, visitor & maid gate approvals, tenant agreement tracking with police NOC, vendor AMC work orders, notice board, and emergency services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
